@@ -10,6 +10,9 @@ Currently I've only learnt Python and I use PyQt6 quite often. I'm also trying t
 
 Fun Facts:
 `- I own 4 parrots
+
 `- I love visual novel games!
+
 `- I'm very passionate about music
+
 `- Hobbies: playing guitar, gym, video games
