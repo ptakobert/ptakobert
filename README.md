@@ -9,10 +9,11 @@ If something comes through my mind I will start building it!
 Currently I've only learnt Python and I use PyQt6 quite often. I'm also trying to get into pixel art for which I will use Aseprite!
 
 Fun Facts:
-`- I own 4 parrots
 
-`- I love visual novel games!
+- I own 4 parrots
 
-`- I'm very passionate about music
+- I love visual novel games!
 
-`- Hobbies: playing guitar, gym, video games
+- I'm very passionate about music
+
+- Hobbies: playing guitar, gym, video games
