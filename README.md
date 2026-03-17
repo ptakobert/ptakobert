@@ -6,7 +6,7 @@ I recently found a new passion for coding and I wanna build everything I'm inter
 
 If something comes through my mind I will start building it!
 
-Currently I've only learnt Python and I use PyQt6 quite often. I'm also trying to get into pixel art for which I will use Aseprite!
+Currently I've only learnt Python and I use a variety of libraries and frameworks such as Scikit-learn, PyQt6, Flask. I'm also trying to get into pixel art for which I will use Aseprite!
 
 Fun Facts:
 
